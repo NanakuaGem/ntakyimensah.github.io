@@ -21,3 +21,5 @@ Operations Assistant – Yam Export Business
 2023–2024
 
 Supported logistics coordination, documentation preparation, and shipment tracking for export operations.
+
+Profile website
