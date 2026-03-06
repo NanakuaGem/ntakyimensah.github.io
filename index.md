@@ -6,8 +6,8 @@ Welcome to my portfolio. Here I showcase my work in market analysis, strategy, a
 
 ## Projects
 
-### [Go-to-Market Strategy for a Concept Product at iRobot] (spidey-clean.md)
-Marketing strategy and financial projections for a conceptual robotic cleaning product.
+### [Go-to-Market Strategy for a Concept Product at iRobot](spidey-clean.md)
+Developed a marketing and market-entry strategy for a concept robotic cleaning product, including market analysis, competitive positioning, and revenue projections.
 
 ### EU Sugar Market Competitive Analysis
 Industry analysis examining market structure and competitive pressures.
